@@ -26,6 +26,8 @@
 <a href="https://instagram.com/rodhisz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodhisz" height="30" width="40" /></a>
 <a href="https://medium.com/@rodhisz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rodhisz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rodhi shafia zaidan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rodhi shafia zaidan" height="30" width="40" /></a>
+<a href="https://discord.com/users/rodhisz#2676" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.stackoverflow.com/users/16866816" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 </p>
 
 
