@@ -1,9 +1,7 @@
 <h1>Hi there, I'm Rodhisz 👋</h1>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/fltrdrt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=fltrdrt)
-
-<a href="https://www.github.com/rodhisz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rodhisz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+[![Github Follow](https://img.shields.io/github/followers/rodhisz?label=Followers&logo=Github&style=for-the-badge)](https://github.com/rodhisz)
 
 ## I'm a Muslim, Student, and Junior Developer!!
 
