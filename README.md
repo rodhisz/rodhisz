@@ -50,6 +50,13 @@
 <a href="https://www.stackoverflow.com/users/16866816" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 </p>
 
+### 🎖️ Badges :
+
+<div>
+<img src="https://templates.images.credential.net/16590187933301617801540872729153.png" width="90" height="90" float="left" />
+<img src="https://images.credly.com/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" width="90" height="90" float="left" />
+</div>
+
 
 ### ✨ My Footstep :
   
