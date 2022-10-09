@@ -59,6 +59,9 @@
   <a href="https://www.credly.com/badges/a268142a-ac33-426d-ae8b-07001fb17fe4/linked_in?t=rcp5bz" target="_blank">
       <img src="https://images.credly.com/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" width="90" height="90" />
   </a>
+  <a href="https://dev.to/rodhisz" target="_blank">
+      <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" width="90" height="90" />
+  </a>
 </div>
 
 
