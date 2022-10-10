@@ -72,4 +72,6 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rodhisz&theme=default)<br>
 <!-- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">By vn7n24fzkq</a> -->
 
+[![@rodhisz's Holopin board](https://holopin.io/api/user/board?user=rodhisz)](https://holopin.io/@rodhisz)
+
 
