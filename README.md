@@ -86,5 +86,6 @@
       <img src="https://saweria.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchicken_money.a24d8223.svg&w=828&q=75" width="200"/>
 </a>
 
+[![@rodhisz's Holopin board](https://holopin.me/rodhisz)](https://holopin.io/@rodhisz)
 
 
