@@ -80,10 +80,8 @@
 
 ### ☕ Buy Me a Coffee :
 <a href="https://saweria.co/rodhisz" target="_blank">
-      <img src="https://saweria.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhomepage_characters.a1cf6cc4.svg&w=3840&q=75"/>
+      <img src="https://saweria.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhomepage_characters.a1cf6cc4.svg&w=3840&q=75" width="150" height="150"/>
 </a>
-
-  <!-- width="90" height="90" -->
 
 
 
