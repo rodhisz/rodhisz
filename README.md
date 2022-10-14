@@ -56,8 +56,8 @@
   <a href="https://www.cloudskillsboost.google/public_profiles/1bd306d1-632c-4569-991e-2cb1087a4e11" target="_blank">
       <img src="https://templates.images.credential.net/16590187933301617801540872729153.png" width="90" height="90" />
   </a>
-  <a href="https://pbs.twimg.com/media/D2hPmgbXgAAU40_.jpg" target="_blank">
-      <img src="https://templates.images.credential.net/16590187933301617801540872729153.png" width="90" height="90" />
+  <a href="https://www.cloudskillsboost.google/public_profiles/1bd306d1-632c-4569-991e-2cb1087a4e11" target="_blank">
+      <img src="https://pbs.twimg.com/media/D2hPmgbXgAAU40_.jpg" width="90" height="90" />
   </a>
   <a href="https://www.credly.com/badges/a268142a-ac33-426d-ae8b-07001fb17fe4/linked_in?t=rcp5bz" target="_blank">
       <img src="https://images.credly.com/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" width="90" height="90" />
