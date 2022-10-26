@@ -72,7 +72,7 @@
       <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=3840&q=75" width="90" height="90" />
   </a>
   <a href="https://g.dev/rodhishafiazaidan" target="_blank">
-      <img src="https://global-uploads.webflow.com/6076d087f11e3d9e1ebc1832/608eb4207237716b2dcf20fa_devrel.png" width="120" height="90" />
+      <img src="https://global-uploads.webflow.com/6076d087f11e3d9e1ebc1832/608eb4207237716b2dcf20fa_devrel.png" width="60" height="50" />
   </a>
 </div>
 
