@@ -62,14 +62,8 @@
   <a href="https://dev.to/rodhisz" target="_blank">
       <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" width="90" height="90" />
   </a>
-  <a href="https://www.holopin.io/@rodhisz" target="_blank">
-      <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1080&q=75" width="90" height="90" />
-  </a>
-  <a href="https://www.holopin.io/@rodhisz" target="_blank">
-      <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1080&q=75" width="90" height="90" />
-  </a>
-  <a href="https://www.holopin.io/@rodhisz" target="_blank">
-      <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=3840&q=75" width="90" height="90" />
+  <a href="https://dev.to/rodhisz" target="_blank">
+      <img src=" https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" width="90" height="90" />
   </a>
 </div>
 
