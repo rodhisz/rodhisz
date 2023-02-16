@@ -63,7 +63,7 @@
       <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" width="90" height="90" />
   </a>
   <a href="https://dev.to/rodhisz" target="_blank">
-      <img src=" https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" width="90" height="90" />
+      <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" width="90" height="90" />
   </a>
 </div>
 
