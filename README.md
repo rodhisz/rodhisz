@@ -7,8 +7,8 @@
 ## I'm a Muslim, Student, and Junior Developer!!
 
 - 🇮🇩 
-- 👨🏻‍💻 21 yo
-- 🏢 I'm currently a collage student at IDN Boarding School 
+- 👨🏻‍💻 22 yo
+- 🏢 I'm currently a collage student and teacher at IDN Boarding School 
 - 🌱 I like to learn new things
 - 🥅 2022 Goals: Contribute more to Open Source projects and Get Married 🤣
 
