@@ -4,7 +4,7 @@
 [![Github Follow](https://img.shields.io/github/followers/rodhisz?label=Followers&logo=Github&style=for-the-badge)](https://github.com/rodhisz)
 <!-- [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCi8IEJr4icIe2Lex_OcxxEw?style=social)](https://www.youtube.com/channel/UCi8IEJr4icIe2Lex_OcxxEw) -->
 
-## I'm a Muslim, Student, and Junior Developer!!
+## I'm a Muslim, Student, and Backend Developer!!
 
 - 🇮🇩 
 - 👨🏻‍💻 22 yo
