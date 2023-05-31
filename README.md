@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Rodhisz 👋</h1>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/fltrdrt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=fltrdrt)
+[![Twitter Follow](https://img.shields.io/twitter/follow/fltrdrt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=rodhisz)
 [![Github Follow](https://img.shields.io/github/followers/rodhisz?label=Followers&logo=Github&style=for-the-badge)](https://github.com/rodhisz)
 <!-- [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCi8IEJr4icIe2Lex_OcxxEw?style=social)](https://www.youtube.com/channel/UCi8IEJr4icIe2Lex_OcxxEw) -->
 
