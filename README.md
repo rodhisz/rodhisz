@@ -12,6 +12,8 @@
 - 🌱 I like to learn new things
 - 🥅 2022 Goals: Contribute more to Open Source projects and Get Married 🤣
 
+[![wakatime](https://wakatime.com/badge/user/8ba534c7-3602-4395-a277-60e69c45eb75.svg)](https://wakatime.com/@8ba534c7-3602-4395-a277-60e69c45eb75)
+
 ### 💻  My Gear :
 
 <img width="150px" src="https://img.shields.io/badge/Apple-MacBook_Pro_2017-999999" style="for-the-badge&logo=apple&logoColor=white"/>
