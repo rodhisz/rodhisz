@@ -16,7 +16,7 @@
 
 ### 💻  My Gear :
 
-<img width="150px" src="https://img.shields.io/badge/Apple-MacBook_Pro_2017-999999" style="for-the-badge&logo=apple&logoColor=white"/>
+<img width="150px" src="https://img.shields.io/badge/Apple-MacBook_Pro_M1-999999" style="for-the-badge&logo=apple&logoColor=white"/>
 
 ### 🔥 Skills :
 
