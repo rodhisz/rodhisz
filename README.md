@@ -4,13 +4,13 @@
 [![Github Follow](https://img.shields.io/github/followers/rodhisz?label=Followers&logo=Github&style=for-the-badge)](https://github.com/rodhisz)
 <!-- [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCi8IEJr4icIe2Lex_OcxxEw?style=social)](https://www.youtube.com/channel/UCi8IEJr4icIe2Lex_OcxxEw) -->
 
-## I'm a Muslim, Student, and Backend Developer!!
+## I'm a Muslim, Student, and Software Engineer!!
 
 - 🇮🇩 
 - 👨🏻‍💻 22 yo
-- 🏢 I'm currently a collage student and teacher at IDN Boarding School 
+- 🏢 Student & IT Consultant
 - 🌱 I like to learn new things
-- 🥅 2022 Goals: Contribute more to Open Source projects and Get Married 🤣
+- 🥅 My Goals: Contribute more to Open Source projects and become GDE!
 
 [![wakatime](https://wakatime.com/badge/user/8ba534c7-3602-4395-a277-60e69c45eb75.svg)](https://wakatime.com/@8ba534c7-3602-4395-a277-60e69c45eb75)
 
