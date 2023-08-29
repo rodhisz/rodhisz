@@ -8,7 +8,7 @@
 
 - 🇮🇩 
 - 👨🏻‍💻 22 yo
-- 🏢 Student & IT Consultant
+- 🏢 Student & Software Technical Support
 - 🌱 I like to learn new things
 - 🥅 My Goals: Contribute more to Open Source projects and become GDE!
 
